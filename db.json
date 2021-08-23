@@ -1,0 +1,23 @@
+{
+  "user": {
+    "username": "Rachman",
+    "password": "12345"
+  },
+  "members": [
+    {
+      "id": 1,
+      "nama": "Ujang",
+      "usia": 22
+    },
+    {
+      "id": 2,
+      "nama": "Stepen",
+      "usia": 20
+    },
+    {
+      "id": 3,
+      "nama": "Stepen Chou",
+      "usia": 25
+    }
+  ]
+}
