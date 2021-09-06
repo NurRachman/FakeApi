@@ -19,5 +19,9 @@
       "nama": "Stepen Chou",
       "usia": 25
     }
-  ]
+  ],
+  "roles": {
+    "admin": "Admin",
+    "guest": "Guest"
+  }
 }
